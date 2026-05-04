@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Outdoors Salez</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <h1>Outdoors Salez</h1>
+  <p>Recycled Soft Plastic Lures</p>
+  <p class="tagline">Fish More. Waste Less.</p>
+</header>
+
+<section class="pricing">
+  <h2>🔥 Deals</h2>
+  <p class="big">1 for $2</p>
+  <p class="big">3 for $5</p>
+</section>
+
+<section class="gallery">
+  <h2>Our Lures</h2>
+
+  <div class="grid">
+    <img src="images/lure1.jpg">
+    <img src="images/lure2.jpg">
+    <img src="images/lure3.jpg">
+    <img src="images/lure4.jpg">
+    <img src="images/lure5.jpg">
+    <img src="images/lure6.jpg">
+  </div>
+</section>
+
+<section class="about">
+  <h2>Why Us?</h2>
+  <p>
+    Our lures are made from recycled soft plastics.
+    Better for the environment and still built to catch fish.
+  </p>
+</section>
+
+<section class="contact">
+  <h2>Order Now</h2>
+  <a href="https://instagram.com/Outdoors_salez" target="_blank">
+    DM Us on Instagram
+  </a>
+</section>
+
+<footer>
+  <p>© 2026 Outdoors Salez</p>
+</footer>
+
+</body>
+</html>
